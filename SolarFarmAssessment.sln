@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarFarm.UI", "SolarFarm.UI\SolarFarm.UI.csproj", "{6B0492BE-6B0B-49AE-819A-4FAD81F4CFA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarFarm.BLL", "SolarFarm.BLL\SolarFarm.BLL.csproj", "{40A6110F-5E58-4274-A608-736002FD35C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarFarm.DAL", "SolarFarm.DAL\SolarFarm.DAL.csproj", "{D5DBE010-443D-43D6-9A37-12186B0E3BB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarFarm.Core", "SolarFarm.Core\SolarFarm.Core.csproj", "{FED24415-6602-4830-89D2-3614683E37A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B0492BE-6B0B-49AE-819A-4FAD81F4CFA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B0492BE-6B0B-49AE-819A-4FAD81F4CFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B0492BE-6B0B-49AE-819A-4FAD81F4CFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B0492BE-6B0B-49AE-819A-4FAD81F4CFA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40A6110F-5E58-4274-A608-736002FD35C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A6110F-5E58-4274-A608-736002FD35C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A6110F-5E58-4274-A608-736002FD35C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A6110F-5E58-4274-A608-736002FD35C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5DBE010-443D-43D6-9A37-12186B0E3BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5DBE010-443D-43D6-9A37-12186B0E3BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5DBE010-443D-43D6-9A37-12186B0E3BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5DBE010-443D-43D6-9A37-12186B0E3BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED24415-6602-4830-89D2-3614683E37A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED24415-6602-4830-89D2-3614683E37A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED24415-6602-4830-89D2-3614683E37A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED24415-6602-4830-89D2-3614683E37A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CDEE8E6-A7DB-49BF-8333-3B087AE9F38B}
+	EndGlobalSection
+EndGlobal
